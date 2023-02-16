@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Please FUCK OFF! 
+          Please change me from the feature branch
         </a>
       </header>
     </div>
